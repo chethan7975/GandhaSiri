@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gandha-Siri</string>
+    <string name="profile">Profile</string>
+    <string name="farmer_profile">Farmer Profile</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="kannada">Kannada</string>
+    <string name="english">English</string>
+    <string name="overview">Overview</string>
+    <string name="total_trees">Total Trees</string>
+    <string name="healthy">Healthy</string>
+    <string name="security_alerts">Security Alerts</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="tree_map">Tree Map</string>
+    <string name="ai_advice">AI Advice</string>
+    <string name="legal_info">Legal Info</string>
+    <string name="recent_activity">Recent Activity</string>
+</resources>

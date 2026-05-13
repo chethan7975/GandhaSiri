@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Built variants
+**/build/
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Sign files
+*.jks
+*.keystore
+
+# App bundle related
+*.apks
+*.aab

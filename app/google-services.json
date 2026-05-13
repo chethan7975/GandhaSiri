@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060638346613",
+    "project_id": "gandhasiri-a5356",
+    "storage_bucket": "gandhasiri-a5356.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060638346613:android:90ba8ee22512d2b074573c",
+        "android_client_info": {
+          "package_name": "com.gandhasiri.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuqFT8pLK3KP9wHdgMa5_dytIxByXUxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

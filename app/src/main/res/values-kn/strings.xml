@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ಗಂಧ-ಸಿರಿ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="farmer_profile">ರೈತರ ಪ್ರೊಫೈಲ್</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="english">English</string>
+    <string name="overview">ಅವಲೋಕನ</string>
+    <string name="total_trees">ಒಟ್ಟು ಮರಗಳು</string>
+    <string name="healthy">ಆರೋಗ್ಯಕರ</string>
+    <string name="security_alerts">ಭದ್ರತಾ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಿಯೆಗಳು</string>
+    <string name="tree_map">ಮರಗಳ ನಕ್ಷೆ</string>
+    <string name="ai_advice">AI ಸಲಹೆ</string>
+    <string name="legal_info">ಕಾನೂನು ಮಾಹಿತಿ</string>
+    <string name="recent_activity">ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ</string>
+</resources>
